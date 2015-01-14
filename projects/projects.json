@@ -3625,8 +3625,8 @@
         "Socket.io",
         "Jade"
       ]
-    }
-	{
+    },
+    {
       "name": "Tahiti Audio Converter",
       "thumb": "tahitiaudioconverter/thumb.png",
       "desc": "Tahiti Audio Converter is a free online and in-browser audio transcoding service (MP3, AAC, Vorbis, FLAC with various options). Batch processing supported. Interface built with AngularJS",
@@ -3638,14 +3638,13 @@
         "Production",
         "Entertainment",
         "Web Workers", 
-		"FileReader API",
+	"FileReader API",
         "No jQuery",
         "Audio",
         "Transcoding",
-		"Encoding",
-		"Free"
+	"Encoding",
+	"Free"
       ]
     }
-
   ]
 }
